@@ -4,7 +4,7 @@ layout: home
 # Header
 header:
   title: Learn Fast & Become an Expert
-  description: Grow in your career and join 1 MILLION learners!
+  description: Grow in your career and join 2 MILLION+ learners!
   image:
   main_button:
     title: Your Roadmaps
