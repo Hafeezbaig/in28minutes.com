@@ -16,7 +16,7 @@ header:
 # Youtube
 youtube:
   title: What do we do at in28minutes?
-  description: Learn how we help 1M+ learners become confident in programming, cloud, and DevOps.
+  description: Learn how we help 2M+ learners become confident in programming, cloud, and DevOps.
   video_id: "sBm3yMjoLYM"
   cta:
     title: Watch on YouTube
